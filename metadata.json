@@ -1,0 +1,5 @@
+{
+  "name": "Startup BI Dashboard",
+  "description": "An MVP dashboard for startups to manage inventory, track expenses, and get AI-powered financial forecasts and recommendations to aid in decision-making.",
+  "requestFramePermissions": []
+}
